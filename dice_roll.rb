@@ -4,5 +4,5 @@
 
 def roll
   arr = [1..6]
-  return arr.rand
+  return item = arr(arr.lenthrand
 end
