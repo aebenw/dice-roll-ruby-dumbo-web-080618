@@ -4,6 +4,6 @@
 
 def roll
   arr = [1,2,3,4,5,6]
-  item = arr[rand(arr.length)]
-  p item 
+  p item = arr[rand(arr.length)]
+  
 end
